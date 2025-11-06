@@ -122,4 +122,4 @@ When creating `TERRAFORM_UPGRADE_BREAKING_CHANGES.md`, keep it **concise**:
 5. Update version constraints to latest
 6. Replace deprecated properties (e.g., `skip_provider_registration` → `resource_provider_registrations`)
 7. Create concise `TERRAFORM_UPGRADE_BREAKING_CHANGES.md`
-8. User runs `terraform init -upgrade` and `terraform plan` when ready
+8. User runs and `terraform plan` when ready

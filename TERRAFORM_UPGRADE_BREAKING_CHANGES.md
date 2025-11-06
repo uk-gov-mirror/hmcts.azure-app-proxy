@@ -15,8 +15,7 @@
 
 ## Next Steps
 
-1. Run `terraform init -upgrade` to download v4.51
-2. Run `terraform plan` to verify no unexpected changes
+1. Run `terraform plan` to verify no unexpected changes
 
 ## Reference
 
