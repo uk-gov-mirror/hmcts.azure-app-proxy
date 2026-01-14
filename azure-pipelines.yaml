@@ -16,6 +16,7 @@ resources:
     ref: refs/heads/DTSPO-28968
     name: hmcts/cnp-azuredevops-libraries
     endpoint: 'hmcts'
+    #PR comment test
 
 
 variables:
